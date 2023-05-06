@@ -5,7 +5,10 @@ logs
 
 # files
 *.log
-config.*
+config.yaml
+config.yml
+config.json
+.env
 .swap
 .exe
 .bin
