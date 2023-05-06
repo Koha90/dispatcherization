@@ -1,0 +1,11 @@
+# folders
+.vscode
+.idea
+logs
+
+# files
+*.log
+config.*
+.swap
+.exe
+.bin
