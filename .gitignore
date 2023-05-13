@@ -5,9 +5,12 @@ logs
 
 # files
 *.log
+
 config.yaml
 config.yml
 config.json
+credantials.json
+
 .env
 .swap
 .exe
